@@ -1,0 +1,14 @@
+net Net_9
+	term   ":ioport0:pin7.fb"
+	switch ":ioport0:pin7.fb==>:ioport0:hsiom_in7.hsiom7_in"
+	switch ":ioport0:hsiom_in7.dsi==>Stub-:dsiswitch_bottom@[DSI=(1,1)][side=bottom]:dsihc_bottom:v13+:dsiswitch_bottom@[DSI=(1,1)][side=bottom]:dsihc_bottom:v15"
+	switch "OStub-:dsiswitch_bottom@[DSI=(1,1)][side=bottom]:dsihc_bottom:v13+:dsiswitch_bottom@[DSI=(1,1)][side=bottom]:dsihc_bottom:v15"
+	switch ":dsiswitch_bottom@[DSI=(1,1)][side=bottom]:dsihc_bottom:13,80"
+	switch ":hvswitch@[UDB=(2,0)][side=left]:hseg_80_b"
+	switch ":dsiswitch_bottom@[DSI=(1,0)][side=bottom]:dsihc_bottom:98,80_f"
+	switch "IStub-:dsiswitch_bottom@[DSI=(1,0)][side=bottom]:dsihc_bottom:v100+:dsiswitch_bottom@[DSI=(1,0)][side=bottom]:dsihc_bottom:v102+:dsiswitch_bottom@[DSI=(1,0)][side=bottom]:dsihc_bottom:v98"
+	switch "Stub-:dsiswitch_bottom@[DSI=(1,0)][side=bottom]:dsihc_bottom:v100+:dsiswitch_bottom@[DSI=(1,0)][side=bottom]:dsihc_bottom:v102+:dsiswitch_bottom@[DSI=(1,0)][side=bottom]:dsihc_bottom:v98==>:ioport1:inputs2_mux.in_2"
+	switch ":ioport1:inputs2_mux.pin6__pin_input==>:ioport1:hsiom_out6.dsi"
+	switch ":ioport1:hsiom_out6.hsiom6_out==>:ioport1:pin6.pin_input"
+	term   ":ioport1:pin6.pin_input"
+end Net_9

@@ -1,0 +1,23 @@
+(DELAYFILE
+ (SDFVERSION "IEEE 1497 4.0")
+ (DATE "2020-03-14T01:20:25Z")
+ (DESIGN "Design01")
+ (VENDOR "Cypress Semiconductor")
+ (PROGRAM "PSoC Creator")
+ (VERSION " 4.3")
+ (DIVIDER .)
+ (TIMESCALE 1 ns)
+ (CELL
+  (CELLTYPE "Design01")
+  (INSTANCE *)
+  (DELAY
+   (ABSOLUTE
+    (INTERCONNECT pino_chave\(0\).fb pino_LED\(0\).pin_input (2.914:2.914:2.914))
+    (INTERCONNECT pino_LED\(0\).pad_out pino_LED\(0\).pad_in (0.000:0.000:0.000))
+    (INTERCONNECT pino_chave\(0\)_PAD pino_chave\(0\).pad_in (0.000:0.000:0.000))
+    (INTERCONNECT pino_LED\(0\).pad_out pino_LED\(0\)_PAD (0.000:0.000:0.000))
+    (INTERCONNECT pino_LED\(0\)_PAD pino_LED\(0\).pad_in (0.000:0.000:0.000))
+   )
+  )
+ )
+)

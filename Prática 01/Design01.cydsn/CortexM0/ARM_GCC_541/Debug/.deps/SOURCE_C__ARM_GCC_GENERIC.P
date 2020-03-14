@@ -1,0 +1,18 @@
+C:/Users/Marlo/Documents/PSoC\ Creator/Workspace01/Design01.cydsn/CortexM0/ARM_GCC_541/Debug/cyfitter_cfg.o : C:/Users/Marlo/Documents/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/Users/Marlo/Documents/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/Marlo/Documents/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Marlo/Documents/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Marlo/Documents/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.c C:/Users/Marlo/Documents/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/Users/Marlo/Documents/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/Marlo/Documents/PSoC\ Creator/Workspace01/Design01.cydsn/cyapicallbacks.h 
+
+C:/Users/Marlo/Documents/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+C:/Users/Marlo/Documents/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/Users/Marlo/Documents/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/Users/Marlo/Documents/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/Users/Marlo/Documents/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.c : 
+
+C:/Users/Marlo/Documents/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+C:/Users/Marlo/Documents/PSoC\ Creator/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/Users/Marlo/Documents/PSoC\ Creator/Workspace01/Design01.cydsn/cyapicallbacks.h : 
+
